@@ -2,7 +2,7 @@ function DownloadGitHubRepository
 { 
     param( 
        [Parameter(Mandatory=$True)] 
-       [string] $azure-cosmos-dotnet-v2, 
+       [string] $demo-cloudshell, 
          
        [Parameter(Mandatory=$True)] 
        [string] $Tanukusolman, 
